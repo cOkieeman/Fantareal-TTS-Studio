@@ -45,9 +45,12 @@ https://github.com/cOkieeman/Fantareal-TTS-Studio
 
 ### 模型下载
 
-模型文件不会进入 Git 仓库。后续会在这里补充经过整理的网盘下载地址、文件大小、SHA-256、来源和许可证说明。
+模型文件不会进入 Git 仓库。完整本地 TTS 包通过夸克网盘提供：
 
-在正式下载包发布前，用户可以选择自己已有的完整 GPT-SoVITS/TTS Studio 目录，也可以分别导入 GPT/SoVITS 权重和参考音频。
+- 下载地址：[夸克网盘](https://pan.quark.cn/s/46cd894d9503?pwd=7QWD)
+- 提取码：`7QWD`
+
+下载并解压后，在 TTS Studio 页面选择解压得到的完整目录。用户也可以继续选择自己已有的完整 GPT-SoVITS/TTS Studio 目录，或分别导入 GPT/SoVITS 权重和参考音频。
 
 ## 本地开发
 
